@@ -1,0 +1,38 @@
+symbol,name,asset_class,category,risk_level,expense_ratio_pct,sec_yield_pct,return_ytd_pct,return_1y_pct,return_5y_pct,return_10y_pct,return_since_inception_pct,inception_date,price_usd,price_change_usd,price_change_pct
+VCEB,ESG U.S. Corporate Bond ETF,Bond,Inter-term Investment,2,0.12,5.37,-1.81,1.4,-0.14,,0.09,9/22/2020,60.52,-0.05,-0.08
+VUSB,Ultra-Short Bond ETF,Bond,Short-term Investment,1,0.1,4.48,2.24,3.98,3.59,,3.39,4/5/2021,49.53,-0.01,-0.02
+VTES,Short-Term Tax-Exempt Bond ETF,Bond,Short-term National Muni,2,0.05,2.84,0.06,1.79,,,2.95,3/7/2023,99.7,0.07,0.07
+VPLS,Core-Plus Bond ETF,Bond,Inter-term Investment,2,0.2,4.97,-0.75,2.58,,,5.21,12/6/2023,75.13,-0.09,-0.12
+VCRB,Core Bond ETF,Bond,Inter-term Investment,2,0.1,4.93,-1.06,2.14,,,4.78,12/12/2023,74.75,-0.09,-0.12
+VTEI,Intermediate-Term Tax-Exempt Bond ETF,Bond,Inter-term National Muni,2,0.08,3.44,-1.75,3.11,,,2.45,1/26/2024,97.14,0.13,0.13
+VTEC,California Tax-Exempt Bond ETF,Bond,Inter-term State Muni,2,0.06,3.54,-1.85,3.75,,,2.19,1/26/2024,96.29,0.16,0.17
+VCRM,Core Tax-Exempt Bond ETF,Bond,Inter-term National Muni,2,0.12,4.17,-0.55,5.4,,,3.18,11/19/2024,73.28,0.15,0.21
+VSDM,Short Duration Tax-Exempt Bond ETF,Bond,Short-term National Muni,2,0.12,3.45,0.65,2.96,,,3.87,11/19/2024,75.36,0.06,0.08
+VBIL,0-3 Month Treasury Bill ETF,Bond,Short-term Investment,1,0.06,3.63,2.54,3.79,,,3.95,2/7/2025,75.58,0.02,0.03
+VGUS,Ultra-Short Treasury ETF,Bond,Short-term Investment,1,0.07,3.76,2.42,3.73,,,3.94,2/7/2025,75.5,0,0
+VSDB,Short Duration Bond ETF,Bond,Short-term Investment,1,0.15,4.94,0.94,3.33,,,4.87,4/1/2025,75.08,-0.08,-0.11
+MUNY,New York Tax-Exempt Bond ETF,Bond,Inter-term State Muni,2,0.09,3.75,-1.66,3.84,,,3.84,5/20/2025,99.28,0.19,0.19
+VTEL,Long-Term Tax-Exempt Bond ETF,Bond,Long-term National Muni,3,0.09,4.34,-2.33,5.37,,,4.42,5/20/2025,98.63,0.24,0.24
+VGMS,Multi-Sector Income Bond ETF,Bond,Inter-term Low Quality,3,0.3,5.68,1.02,4.33,,,6.67,6/9/2025,50.23,-0.02,-0.04
+VGVT,Government Securities Active ETF,Bond,Inter-term Government,2,0.1,4.25,-1.16,1.9,,,3.08,7/7/2025,73.03,-0.11,-0.15
+VTP,Total Inflation-Protected Securities ETF,Bond,Inter-term Government,2,0.05,2.22,-0.39,0.96,,,2.72,7/7/2025,74.4,-0.29,-0.39
+VTG,Total Treasury ETF,Bond,Inter-term Government,2,0.03,4.61,-1.44,1.21,,,2.37,7/7/2025,73.16,-0.08,-0.11
+VGHY,High-Yield Active ETF,Bond,Inter-term Low Quality,3,0.22,6.53,1.53,,,,4.72,9/16/2025,73.6,0.04,0.05
+VEXC,Emerging Markets ex-China ETF,International,,5,0.07,,23.58,,,,30.42,9/30/2025,97.18,0.41,0.42
+VDIG,Wellington Dividend Growth Active ETF,Stock,Large-Cap Blend,4,0.4,1.01,1.9,,,,6.37,11/14/2025,62.51,0.51,0.82
+VUSG,Wellington U.S. Growth Active ETF,Stock,Large-Cap Growth,4,0.35,-0.01,7.17,,,,8.85,11/14/2025,65.18,0.58,0.9
+VUSV,Wellington U.S. Value Active ETF,Stock,Large-Cap Value,5,0.3,1.12,12.58,,,,20.13,11/14/2025,70.55,0.43,0.61
+BNDP,Core-Plus Bond Index ETF,Bond,Inter-term Investment,2,0.05,5.03,-1.18,,,,0.4,12/2/2025,72.02,-0.08,-0.11
+VBCD,Target Maturity 2030 Corporate Bond ETF,Bond,Inter-term Investment,2,0.08,4.99,,,,,0.95,3/24/2026,73.87,-0.09,-0.12
+VBCE,Target Maturity 2031 Corporate Bond ETF,Bond,Inter-term Investment,2,0.08,5.14,,,,,0.75,3/24/2026,73.56,-0.11,-0.15
+VBCF,Target Maturity 2032 Corporate Bond ETF,Bond,Inter-term Investment,2,0.08,5.24,,,,,0.73,3/24/2026,73.22,-0.13,-0.18
+VBCG,Target Maturity 2033 Corporate Bond ETF,Bond,Inter-term Investment,2,0.08,5.4,,,,,0.54,3/24/2026,72.94,-0.1,-0.14
+VBCH,Target Maturity 2034 Corporate Bond ETF,Bond,Inter-term Investment,2,0.08,5.54,,,,,0.63,3/24/2026,72.83,-0.12,-0.16
+VBCI,Target Maturity 2035 Corporate Bond ETF,Bond,Long-term Investment,2,0.08,5.61,,,,,0.35,3/24/2026,72.53,-0.11,-0.15
+VBCJ,Target Maturity 2036 Corporate Bond ETF,Bond,Long-term Investment,2,0.08,5.71,,,,,0.09,3/24/2026,72.3,-0.11,-0.15
+VBCA,Target Maturity 2027 Corporate Bond ETF,Bond,Short-term Investment,2,0.08,4.34,,,,,1.97,3/24/2026,75.33,-0.01,-0.01
+VBCB,Target Maturity 2028 Corporate Bond ETF,Bond,Short-term Investment,2,0.08,4.65,,,,,1.71,3/24/2026,74.98,-0.06,-0.08
+VBCC,Target Maturity 2029 Corporate Bond ETF,Bond,Short-term Investment,2,0.08,4.85,,,,,1.43,3/24/2026,74.37,-0.1,-0.13
+VDG,Developed Markets ex-US Growth Index ETF,International,,5,0.08,,,,,,9.46,4/14/2026,80.96,0.87,1.09
+VDV,Developed Markets ex-US Value Index ETF,International,,5,0.08,,,,,,6.39,4/14/2026,79.23,0.74,0.94
+VCHY,U.S. High-Yield Corporate Bond Index ETF,Bond,Inter-term Low Quality,3,0.05,7.15,,,,,1.26,6/2/2026,74.14,0.02,0.03

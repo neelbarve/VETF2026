@@ -1,0 +1,80 @@
+symbol,name,asset_class,category,risk_level,expense_ratio_pct,sec_yield_pct,return_ytd_pct,return_1y_pct,return_5y_pct,return_10y_pct,return_since_inception_pct,inception_date,price_usd,price_change_usd,price_change_pct
+VT,Total World Stock ETF,International,,4,0.06,,14.06,22.12,10.74,12.57,8.91,6/24/2008,159.81,1.3,0.82
+VSS,FTSE All-World ex-US Small-Cap ETF,International,,5,0.06,,11.23,18.1,5.9,8.17,9.64,4/2/2009,158.51,0.45,0.28
+VGIT,Intermediate-Term Treasury ETF,Bond,Inter-term Government,2,0.03,4.54,-1.81,0.65,-0.17,1.14,2.14,11/19/2009,57.31,-0.11,-0.19
+VMBS,Mortgage-Backed Securities ETF,Bond,Inter-term Government,2,0.03,4.33,-1,3.16,0.37,1.26,2.06,11/19/2009,45.24,-0.08,-0.18
+VCIT,Intermediate-Term Corporate Bond ETF,Bond,Inter-term Investment,2,0.03,5.54,-1.84,1.95,0.74,2.62,4.2,11/19/2009,79.66,-0.12,-0.15
+VGLT,Long-Term Treasury ETF,Bond,Long-term Government,3,0.03,5.29,-4.07,0.09,-6.88,-1.8,2.32,11/19/2009,51.87,0.01,0.02
+VCLT,Long-Term Corporate Bond ETF,Bond,Long-term Investment,3,0.03,6.24,-3.34,0.92,-3.27,1.46,4.39,11/19/2009,70.69,0.03,0.04
+VGSH,Short-Term Treasury ETF,Bond,Short-term Government,1,0.03,4.3,0.67,2.43,1.92,1.77,1.41,11/19/2009,57.66,-0.06,-0.1
+VCSH,Short-Term Corporate Bond ETF,Bond,Short-term Investment,1,0.03,4.92,0.41,2.76,2.37,2.64,2.9,11/19/2009,77.72,-0.09,-0.12
+VOO,S&P 500 ETF,Stock,Large-Cap Blend,4,0.03,0.98,12.72,20.26,12.75,15.33,15.04,9/7/2010,702.62,6.02,0.86
+VOOG,S&P 500 Growth ETF,Stock,Large-Cap Growth,4,0.07,0.41,13.3,22.25,13.02,17.68,16.89,9/7/2010,83.75,0.68,0.82
+VOOV,S&P 500 Value ETF,Stock,Large-Cap Value,4,0.07,1.62,11.89,18.07,11.55,11.88,12.37,9/7/2010,227.26,2.05,0.91
+IVOO,S&P Mid-Cap 400 ETF,Stock,Mid-Cap Blend,5,0.07,1.17,13.37,17.13,8.01,10.78,12.16,9/7/2010,126,1.06,0.85
+IVOG,S&P Mid-Cap 400 Growth ETF,Stock,Mid-Cap Growth,5,0.1,0.57,15.57,19.97,7.41,10.87,12.32,9/7/2010,138.89,1.26,0.92
+IVOV,S&P Mid-Cap 400 Value ETF,Stock,Mid-Cap Value,5,0.1,1.74,11.13,14.49,8.43,10.28,11.68,9/7/2010,112.25,0.86,0.77
+VIOO,S&P Small-Cap 600 ETF,Stock,Small-Cap Blend,5,0.07,1.43,18.79,23.98,6.84,10.49,12.41,9/7/2010,131.84,0.73,0.56
+VIOG,S&P Small-Cap 600 Growth ETF,Stock,Small-Cap Growth,5,0.1,0.82,18.48,21.54,5.72,10.6,12.72,9/7/2010,143.16,0.74,0.52
+VIOV,S&P Small-Cap 600 Value ETF,Stock,Small-Cap Value,5,0.1,1.94,19.18,26.76,7.73,10.03,11.86,9/7/2010,115.63,0.67,0.58
+VONE,Russell 1000 ETF,Stock,Large-Cap Blend,4,0.06,0.96,12.46,19.69,12.04,15.05,14.52,9/20/2010,345.68,2.99,0.87
+VTHR,Russell 3000 ETF,Stock,Large-Cap Blend,4,0.06,0.97,12.87,20.07,11.71,14.73,14.28,9/20/2010,337.06,2.87,0.86
+VONG,Russell 1000 Growth ETF,Stock,Large-Cap Growth,4,0.06,0.37,3.67,10.76,11.82,17.86,16.56,9/20/2010,125.9,1.05,0.84
+VONV,Russell 1000 Value ETF,Stock,Large-Cap Value,4,0.06,1.47,22.45,29.67,11.77,11.68,12.1,9/20/2010,112.08,1,0.9
+VTWO,Russell 2000 ETF,Stock,Small-Cap Blend,5,0.06,1.12,17.93,26.5,6.9,10.61,11.28,9/20/2010,116.82,0.53,0.46
+VTWG,Russell 2000 Growth ETF,Stock,Small-Cap Growth,5,0.06,0.41,14.06,23.35,5.08,10.7,11.61,9/20/2010,268.4,1.38,0.52
+VTWV,Russell 2000 Value ETF,Stock,Small-Cap Value,5,0.06,1.86,22.14,30.13,8.51,10.04,10.56,9/20/2010,193.96,0.76,0.39
+VNQI,Global ex-U.S. Real Estate ETF,International,,5,0.12,,-3.84,-0.5,-1.52,1.92,3.26,11/1/2010,44.2,-0.01,-0.02
+VXUS,Total International Stock ETF,International,,5,0.05,,16.15,25.89,9.17,9.65,6.75,1/26/2011,86.98,0.66,0.76
+VTIP,Short-Term Inflation-Protected Securities ETF,Bond,Short-term Government,1,0.03,2.21,1.5,2.13,3.06,3.11,2.21,10/12/2012,49.48,-0.14,-0.28
+VWOB,Emerging Markets Government Bond ETF,International,,3,0.15,6.17,0.05,5.46,1.64,2.95,3.52,5/31/2013,64.91,-0.08,-0.12
+BNDX,Total International Bond ETF,International,,2,0.07,3.77,-0.92,0.83,-0.03,1.41,2.32,5/31/2013,46.95,0,0
+VTEB,Tax-Exempt Bond ETF,Bond,Inter-term National Muni,2,0.03,3.85,-1.49,4.14,0.55,1.81,2.24,8/21/2015,48.39,0.09,0.19
+VIGI,International Dividend Appreciation ETF,International,,5,0.07,,7.37,12.37,4.75,8.29,9.15,2/25/2016,96.85,0.66,0.69
+VYMI,International High Dividend Yield ETF,International,,5,0.07,,19.75,30.06,14.14,10.99,11.77,2/25/2016,105.46,0.72,0.69
+VTC,Total Corporate Bond ETF,Bond,Inter-term Investment,2,0.03,5.44,-1.43,1.89,-0.17,,2.22,11/7/2017,74.05,-0.06,-0.08
+VFMV,U.S. Minimum Volatility ETF,Stock,Domestic Stock - General,4,0.13,1.48,11.38,13.09,9.22,,10.22,2/13/2018,144.16,1.26,0.88
+VFMO,U.S. Momentum Factor ETF,Stock,Domestic Stock - General,5,0.13,0.6,19.95,26.2,12.41,,14.91,2/13/2018,228.83,2.31,1.02
+VFMF,U.S. Multifactor ETF,Stock,Domestic Stock - General,4,0.18,1.43,24.15,32.77,14.59,,13.1,2/13/2018,185.29,1.52,0.83
+VFQY,U.S. Quality Factor ETF,Stock,Domestic Stock - General,5,0.13,0.9,13.5,18.86,9.01,,12.02,2/13/2018,173.15,1.33,0.77
+VFVA,U.S. Value Factor ETF,Stock,Domestic Stock - General,5,0.13,1.81,21.46,28.57,12.52,,11.84,2/13/2018,159.62,1.1,0.69
+BNDW,Total World Bond ETF,International,,2,0.05,4.34,-1.07,1.35,-0.16,,1.73,9/4/2018,66.46,0,0
+ESGV,ESG U.S. Stock ETF,Stock,Large-Cap Blend,4,0.09,0.83,12.39,19.97,11.31,,14.75,9/18/2018,135.31,1.14,0.85
+VSGX,ESG International Stock ETF,International,,5,0.1,,17.36,27.53,8.46,,9.42,9/18/2018,82.89,0.68,0.83
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,

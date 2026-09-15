@@ -1,0 +1,38 @@
+symbol,name,asset_class,category,risk_level,expense_ratio_pct,sec_yield_pct,return_ytd_pct,return_1y_pct,return_5y_pct,return_10y_pct,return_since_inception_pct,inception_date,price_usd,price_change_usd,price_change_pct
+VTI,Morningstar Total Stock Market ETF,Stock,Large-Cap Blend,4,0.03,1.01,12.92,20.23,11.71,14.81,9.51,5/24/2001,376.31,3.16,0.85
+VXF,Extended Market ETF,Stock,Mid-Cap Blend,5,0.05,0.99,14.32,18.63,6.16,11.72,10.12,12/27/2001,237.77,1.76,0.75
+VUG,Morningstar Growth ETF,Stock,Large-Cap Growth,4,0.03,0.35,8.5,15.94,12.15,17.76,12.09,1/26/2004,88.02,0.79,0.91
+VTV,Morningstar Value ETF,Stock,Large-Cap Value,4,0.03,1.79,18.51,25.29,12.32,12.63,9.65,1/26/2004,224.02,1.71,0.77
+VO,Morningstar Mid-Cap ETF,Stock,Mid-Cap Blend,5,0.03,1.38,12.46,14.86,7.43,11.46,10.22,1/26/2004,81.03,0.64,0.8
+VCR,Consumer Discretionary ETF,Stock,Sector,5,0.09,0.76,-3.11,2.19,4.98,13.25,10.78,1/26/2004,380.1,3.75,1
+VDC,Consumer Staples ETF,Stock,Sector,5,0.09,2.17,7.77,7.08,6.63,7.72,9.36,1/26/2004,225.16,1.14,0.51
+VFH,Financials ETF,Stock,Sector,5,0.09,1.52,5.65,8.74,10.51,13.07,6.87,1/26/2004,139.66,0.77,0.55
+VHT,Health Care ETF,Stock,Sector,5,0.09,1.24,8.72,27.61,5.59,10.78,10.04,1/26/2004,310.87,-0.31,-0.1
+VGT,Information Technology ETF,Stock,Sector,5,0.09,0.33,28.78,38.91,18.5,24.49,14.87,1/26/2004,121.11,1.49,1.25
+VAW,Materials ETF,Stock,Sector,5,0.09,1.29,10.85,15.14,6.63,10.09,9.19,1/26/2004,228.54,0.92,0.4
+VPU,Utilities ETF,Stock,Sector,5,0.09,2.86,0.31,2.83,7.35,8.8,9.44,1/26/2004,183.21,-0.75,-0.41
+VB,Morningstar Small-Cap ETF,Stock,Small-Cap Blend,5,0.03,1.28,14.54,20.08,7.31,10.99,9.73,1/26/2004,293.45,2.41,0.83
+VBK,Morningstar Small-Cap Growth ETF,Stock,Small-Cap Growth,5,0.05,0.37,13.02,20.1,4.33,11.01,9.63,1/26/2004,340.78,2.94,0.87
+VBR,Morningstar Small-Cap Value ETF,Stock,Small-Cap Value,5,0.05,1.9,15.49,19.81,9.36,10.52,9.48,1/26/2004,242.14,1.93,0.8
+VV,Morningstar Large-Cap ETF,Stock,Large-Cap Blend,4,0.03,0.96,12.63,19.89,12.36,15.35,11.01,1/27/2004,352.41,2.99,0.86
+VOX,Communication Services ETF,Stock,Sector,5,0.09,0.94,-0.93,4.61,5.56,8.61,8.65,9/23/2004,190.89,2.14,1.13
+VDE,Energy ETF,Stock,Sector,5,0.09,1.75,47.64,46.09,25.84,10.36,8.74,9/23/2004,183.5,0.53,0.29
+VIS,Industrials ETF,Stock,Sector,5,0.09,0.93,11.5,16.4,12.46,13.32,10.88,9/23/2004,331.14,3.9,1.19
+VNQ,Real Estate ETF,Stock,Sector,4,0.13,,9.24,8.61,1.48,4.87,7.59,9/23/2004,94.81,0.71,0.75
+VWO,FTSE Emerging Markets ETF,International,,5,0.06,,12.39,20.49,6.25,8,6.9,3/4/2005,60.36,0.17,0.28
+VGK,FTSE Europe ETF,International,,5,0.06,,9.66,20.36,9.18,9.96,6.5,3/4/2005,89.92,0.59,0.66
+VPL,FTSE Pacific ETF,International,,5,0.07,,30.64,38.8,10.43,10.01,6.76,3/4/2005,117.77,1.66,1.43
+VIG,Dividend Appreciation ETF,Stock,Large-Cap Blend,4,0.04,1.43,9.84,16.64,10.33,13.13,10.21,4/21/2006,239.46,1.72,0.72
+VOT,Morningstar Mid-Cap Growth ETF,Stock,Mid-Cap Growth,5,0.05,0.59,6.03,5.14,4.73,11.8,9.95,8/17/2006,295.04,2.41,0.82
+VOE,Morningstar Mid-Cap Value ETF,Stock,Mid-Cap Value,5,0.05,1.92,16.98,21.98,9.64,10.69,9.5,8/17/2006,205.45,1.58,0.78
+VYM,High Dividend Yield ETF,Stock,Large-Cap Value,4,0.04,2.2,14.9,20.68,12,11.78,9.44,11/10/2006,162.97,1.18,0.73
+VEU,FTSE All-World ex-US ETF,International,,5,0.04,,16.51,26.43,9.44,9.79,5.67,3/2/2007,85.15,0.69,0.82
+BIV,Intermediate-Term Bond ETF,Bond,Inter-term Investment,2,0.03,5.04,-2.13,1.03,-0.19,1.69,3.76,4/3/2007,74.04,-0.13,-0.18
+BND,Total Bond Market ETF,Bond,Inter-term Investment,2,0.03,4.75,-1.24,1.83,-0.31,1.38,3,4/3/2007,71.19,-0.08,-0.11
+BLV,Long-Term Bond ETF,Bond,Long-term Investment,3,0.03,5.72,-3.67,0.7,-4.89,0.13,4.01,4/3/2007,64.84,0.01,0.02
+BSV,Short-Term Bond ETF,Bond,Short-term Investment,1,0.03,4.5,0.02,2.12,1.68,1.94,2.51,4/3/2007,76.73,-0.09,-0.12
+VEA,FTSE Developed Markets ETF,International,,5,0.03,,17.17,27.79,10.19,10.24,5.1,7/20/2007,72.7,0.67,0.93
+EDV,Extended Duration Treasury ETF,Bond,Long-term Government,5,0.05,5.56,-6.88,-2.07,-12.4,-4.52,2.29,12/6/2007,58.66,0.24,0.41
+MGC,Morningstar Mega Cap ETF,Stock,Large-Cap Blend,4,0.05,0.85,12.59,20.96,13.32,16.1,11.76,12/17/2007,281.28,2.42,0.87
+MGK,Morningstar Mega Cap Growth ETF,Stock,Large-Cap Growth,4,0.05,0.29,9.1,17.5,13.14,18.72,13.75,12/17/2007,89.92,0.82,0.92
+MGV,Morningstar Mega Cap Value ETF,Stock,Large-Cap Value,4,0.05,1.72,19,26.31,12.9,12.96,9.52,12/17/2007,166.3,1.24,0.75
